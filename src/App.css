@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 0px;
+  color: aqua;
+}
+
+button {
+  margin-top: 10px;
+}
+*{
+  background-color: rgb(70, 73, 74);
+}
+button{
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(10, 9, 9);
+  background-color: rgb(242, 234, 165);
+  cursor: pointer;
+  border: none;
+}
+button:hover{
+  background-color: rgb(241, 129, 129);
+}
